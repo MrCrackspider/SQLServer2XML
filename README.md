@@ -1,5 +1,5 @@
 # SQLServer2XML
-БД: [SQL Server 2019](https://www.microsoft.com/ru-ru/sql-server/sql-server-2019). Требует пакет System.Data.SqlClient
+БД: [SQL Server 2019](https://www.microsoft.com/ru-ru/sql-server/sql-server-2019). Требует пакет System.Data.SqlClient  
 IDE: Visual Studio 2022
 
 Утилита конвертирует Таблицу из БД в XML файл и наоборот.
